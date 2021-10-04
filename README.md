@@ -3,8 +3,6 @@
 Hi everyone,
 This is an extra task from the Web and Mobile Development domain.
 
-Task : Creation of a Basic Banking System
-
 Problem Statement:
 -Create a dynamic banking system website which provides options to either transfer or receive funds.
 
